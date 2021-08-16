@@ -4,6 +4,7 @@
 
 ### Content
 - [Dependency Manager](#Dependency-Manager)
+- [Animation](#Animation)
 - [Audio](#Audio)
 - [Database](#Database)
 - [Device](#Device)
@@ -25,6 +26,9 @@
 - [Swift Package Manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language. Created and maintained by Apple. Language: Swift. 
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager. CocoaPods manages dependencies for your Xcode projects. (de facto standard/most used Dependency Manager) Language: Ruby.
 - [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa. Language: Swift.
+
+## Animation
+- [Advance](https://github.com/timdonnelly/Advance) - Physics-based animations. Language: Swift.
 
 ## Audio
 - [AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform. Language: Swift.
