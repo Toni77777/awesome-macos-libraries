@@ -60,6 +60,11 @@
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework. Language: Objective-C. 
 - [Reachability](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures. Language: Swift. 
 - [Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift. Language: Swift.
+- [APIKit](https://github.com/ishkawa/APIKit) - Type-safe networking abstraction layer that associates request type with response type. Language: Swift.
+- [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - Thin wrapper around NSURLSession in swift. Simplifies HTTP requests. Language: Swift.
+- [Just](https://github.com/dduan/Just) - Swift HTTP for Humans. Language: Swift.
+- [siesta](https://github.com/bustoutsolutions/siesta) - The civilized way to write REST API clients. Language: Swift.
+- [RestKit](https://github.com/RestKit/RestKit) - RestKit is a framework for consuming and modeling RESTful web resources. Language: Objective-C.
 
 ## Reactive Programming
 [scroll to top](#readme)
