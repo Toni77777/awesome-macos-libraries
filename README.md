@@ -6,6 +6,7 @@
 - [Dependency Manager](#Dependency-Manager)
 - [Database](#Database)
 - [Device](#Device)
+- [Files](#Files)
 - [JSON](#JSON) 
 - [Keychain](#Keychain)
 - [Linter](#Linter)
@@ -37,6 +38,15 @@
 ## Device
 [scroll to top](#readme) 
 - [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift. Language: Swift.
+
+## Files
+- [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift. Language: Swift.
+- [ZipZap](https://github.com/pixelglow/ZipZap) - zip file I/O library. Language: Objective-C.
+- [ZIPFoundation](https://github.com/weichsel/ZIPFoundation) - Effortless ZIP Handling in Swift. Language: Swift.
+- [SSZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files. Language: C.
+- [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote. Helpful in building developer tools. Language: Swift.
+- [FilesProvider](https://github.com/amosavian/FileProvider) - FileManager replacement for Local, iCloud and Remote. Language: Swift.
+- [Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files. Language: Swift.
 
 ## JSON 
 [scroll to top](#readme) 
