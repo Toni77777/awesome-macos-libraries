@@ -7,6 +7,7 @@
 - [Database](#Database)
 - [Device](#Device)
 - [Files](#Files)
+- [Image](#Image)
 - [JSON](#JSON) 
 - [Keychain](#Keychain)
 - [Linter](#Linter)
@@ -49,6 +50,12 @@
 - [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote. Helpful in building developer tools. Language: Swift.
 - [FilesProvider](https://github.com/amosavian/FileProvider) - FileManager replacement for Local, iCloud and Remote. Language: Swift.
 - [Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files. Language: Swift.
+
+## Image
+[scroll to top](#readme) 
+- [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web. Language: Swift.
+- [Nuke](https://github.com/kean/Nuke) - Image loading system. Language: Swift.
+- [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire. Language: Swift.
 
 ## JSON 
 [scroll to top](#readme) 
