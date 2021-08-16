@@ -7,6 +7,7 @@
 - [Database](#Database)
 - [Device](#Device)
 - [JSON](#JSON) 
+- [Logging](#Logging) 
 - [Network](#Network)
 - [Reactive Programming](#Reactive-Programming)
 - [Socket](#Socket)
@@ -42,7 +43,12 @@
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift. Language: Swift.
 - [SBJson](https://github.com/SBJson/SBJson) - This framework implements a strict JSON parser and generator in Objective-C. Language: Objective-C. 
 - [Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch. Language: Objective-C.
-- [JSONModel](https://github.com/jsonmodel/jsonmodel) - Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. Objective-C.
+- [JSONModel](https://github.com/jsonmodel/jsonmodel) - Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. Language: Objective-C.
+
+## Logging
+- [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework. Language: Objective-C.
+- [NSLogger](https://github.com/fpillet/NSLogger) - A modern, flexible logging tool. Language: Objective-C.
+- [EXPLogger](https://github.com/atereshkov/EXPLogger) - A lightweight and simple logger for Swift projects. Language: Swift.
 
 ## Network
 [scroll to top](#readme)
