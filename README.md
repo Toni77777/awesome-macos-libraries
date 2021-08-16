@@ -8,6 +8,7 @@
 - [Device](#Device)
 - [JSON](#JSON) 
 - [Keychain](#Keychain)
+- [Linter](#Linter)
 - [Logging](#Logging) 
 - [Network](#Network)
 - [Reactive Programming](#Reactive-Programming)
@@ -54,6 +55,9 @@
 - [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. Language: Swift.
 - [Valet](https://github.com/square/Valet) - Valet lets you securely store data in the macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise. Language: Swift.
 - [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on macOS. Makes using Keychain APIs as easy as NSUserDefaults. Language: Objective-C.
+
+## Linter
+- [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions. Language: Swift.
 
 ## Logging
 [scroll to top](#readme) 
