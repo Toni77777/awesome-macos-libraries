@@ -10,6 +10,7 @@
 - [Extensions](#Extensions)
 - [Files](#Files)
 - [Image](#Image)
+- [In App Purchases & Subscription](#In-App-Purchases-&-Subscription)
 - [JSON](#JSON) 
 - [Keychain](#Keychain)
 - [Linter](#Linter)
@@ -65,6 +66,9 @@
 - [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web. Language: Swift.
 - [Nuke](https://github.com/kean/Nuke) - Image loading system. Language: Swift.
 - [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire. Language: Swift.
+
+## In App Purchases & Subscription
+- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework. Language: Swift.
 
 ## JSON 
 [scroll to top](#readme) 
