@@ -99,6 +99,7 @@
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework. Language: Objective-C.
 - [NSLogger](https://github.com/fpillet/NSLogger) - A modern, flexible logging tool. Language: Objective-C.
 - [EXPLogger](https://github.com/atereshkov/EXPLogger) - A lightweight and simple logger for Swift projects. Language: Swift.
+- [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number. Language: Swift.
 
 ## Layout
 [scroll to top](#readme) 
