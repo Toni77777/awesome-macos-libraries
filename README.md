@@ -7,6 +7,7 @@
 - [Database](#Database)
 - [Device](#Device)
 - [JSON](#JSON) 
+- [Keychain](#Keychain)
 - [Logging](#Logging) 
 - [Network](#Network)
 - [Reactive Programming](#Reactive-Programming)
@@ -47,6 +48,12 @@
 - [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper. Language: Swift.
 - [MJExtension](https://github.com/CoderMJLee/MJExtension) - A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file. Language: Objective-C.
 - [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) - Simple JSON Object mapping written in Swift. Language: Swift.
+
+## Keychain
+- [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain. Language: Swift.
+- [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. Language: Swift.
+- [Valet](https://github.com/square/Valet) - Valet lets you securely store data in the macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise. Language: Swift.
+- [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on macOS. Makes using Keychain APIs as easy as NSUserDefaults. Language: Objective-C.
 
 ## Logging
 [scroll to top](#readme) 
