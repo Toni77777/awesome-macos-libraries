@@ -83,6 +83,15 @@
 [scroll to top](#readme) 
 - [PureLayout](https://github.com/PureLayout/PureLayout) - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Language: Objective-C.
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL. Language: Swift.
+- [Grid](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI. Language: Swift.
+- [Align](https://github.com/kean/Align) - Intuitive and powerful Auto Layout library. Language: Swift.
+- [PinLayout](https://github.com/layoutBox/PinLayout) - Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. Language: Swift.
+- [EasyAnchor](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout. Language: Swift.
+- [TinyConstraints](https://github.com/roberthein/TinyConstraints) - Nothing but sugar. Language: Swift.
+- [Anchorage](https://github.com/Rightpoint/Anchorage) - A collection of operators and utilities that simplify layout code. Language: Swift.
+- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - Auto Layout made easy. Language: Swift.
+- [Neon](https://github.com/mamaral/Neon) - A powerful Swift programmatic UI layout framework. Language: Swift.
+- [Cartography](https://github.com/robb/Cartography) -  A declarative Auto Layout DSL for Swift. Language: Swift.
 
 ## Network
 [scroll to top](#readme)
