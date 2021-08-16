@@ -6,6 +6,7 @@
 - [Dependency Manager](#Dependency-Manager)
 - [Database](#Database)
 - [Device](#Device)
+- [Extensions](#Extensions)
 - [Files](#Files)
 - [Image](#Image)
 - [JSON](#JSON) 
@@ -40,6 +41,10 @@
 ## Device
 [scroll to top](#readme) 
 - [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift. Language: Swift.
+
+## Extensions
+[scroll to top](#readme) 
+- [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity. Language: Swift.
 
 ## Files
 [scroll to top](#readme) 
