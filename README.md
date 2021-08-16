@@ -4,6 +4,7 @@
 
 ### Content
 - [Dependency Manager](#Dependency-Manager)
+- [Device](#Device)
 - [Network](#Network)
 - [Socket](#Socket)
 - [UI](#UI)
@@ -13,7 +14,11 @@
 - [Swift Package Manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language. Created and maintained by Apple. Language: Swift. 
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager. CocoaPods manages dependencies for your Xcode projects. (de facto standard/most used Dependency Manager) Language: Ruby.
 - [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa. Language: Swift.
- 
+
+# Device
+[scroll to top](#readme) 
+- [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift. Language: Swift.
+
 ## Network
 [scroll to top](#readme)
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire is an HTTP networking library written in Swift. (de facto standard library for network) Language: Swift.  
