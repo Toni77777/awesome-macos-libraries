@@ -57,6 +57,7 @@
 ## Network
 [scroll to top](#readme)
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire is an HTTP networking library written in Swift. (de facto standard library for network) Language: Swift.  
+- [apollo-ios](https://github.com/apollographql/apollo-ios) - A strongly-typed, caching GraphQL client. Language: Swift.
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework. Language: Objective-C. 
 - [Reachability](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures. Language: Swift. 
 - [Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift. Language: Swift.
