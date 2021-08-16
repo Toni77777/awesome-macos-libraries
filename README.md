@@ -5,6 +5,7 @@
 ### Content
 - [Dependency Manager](#Dependency-Manager)
 - [Network](#Network)
+- [Socket](#Socket)
 - [UI](#UI)
 
 ## Dependency Manager
@@ -16,6 +17,10 @@
 - [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire is an HTTP networking library written in Swift. (de facto standard library for network) Language: Swift.  
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework. Language: Objective-C. 
 - [Reachability](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures. Language: Swift. 
-- [Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift. Language: Swift. 
+- [Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift. Language: Swift.
+
+# Socket
+- [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client written on Swift. Language: Swift.
+- [SocketRocket](https://github.com/facebookincubator/SocketRocket) - A conforming Objective-C WebSocket client library. Language: Objective-C. 
 
 ## UI
