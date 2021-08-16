@@ -4,6 +4,7 @@
 
 ### Content
 - [Dependency Manager](#Dependency-Manager)
+- [Database](#Database)
 - [Device](#Device)
 - [Network](#Network)
 - [Reactive Programming](#Reactive-Programming)
@@ -15,6 +16,20 @@
 - [Swift Package Manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language. Created and maintained by Apple. Language: Swift. 
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager. CocoaPods manages dependencies for your Xcode projects. (de facto standard/most used Dependency Manager) Language: Ruby.
 - [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa. Language: Swift.
+
+## Database
+[scroll to top](#readme) 
+- [Realm](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite. Language: Objective-C.
+- [YapDatabase](https://github.com/yapstudios/YapDatabase) - YapDB is a collection/key/value store with a plugin architecture. It's built atop sqlite, for Swift & objective-c developers. Language: Objective-C.
+- [FMDB](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite. Language: Objective-C.
+- [SugarRecord](https://github.com/modo-studio/SugarRecord) - CoreData/Realm sweet wrapper written in Swift. Language: Swift. 
+- [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3. Language: Swift.
+- [GRDB](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development. Language: Swift.
+- [Realm Converter](https://github.com/realm/realm-cocoa-converter) - A library that provides the ability to import/export Realm files from a variety of data container formats. Language: Swift.
+- [WCDB](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat. Language: C. 
+- [IceCream](https://github.com/caiyue1993/IceCream) - Sync Realm Database with CloudKit. Language: Swift. 
+- [MongoKitten](https://github.com/OpenKitten/MongoKitten) - Native MongoDB driver for Swift, written in Swift. Language: Swift.
+- [Unrealm](https://github.com/arturdev/Unrealm) - Unrealm is an extension on RealmCocoa, which enables Swift native types to be saved in Realm. Language: Swift.
 
 ## Device
 [scroll to top](#readme) 
