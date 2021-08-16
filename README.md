@@ -3,7 +3,7 @@
 > All listed libraries support macOS 
 
 ### Content
-- [Dependency Manager](#Dependency Manager)
+- [Dependency Manager](#Dependency-Manager)
 - [Network](#Network)
 - [UI](#UI)
 
