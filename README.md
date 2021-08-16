@@ -32,6 +32,10 @@
 - [MongoKitten](https://github.com/OpenKitten/MongoKitten) - Native MongoDB driver for Swift, written in Swift. Language: Swift.
 - [Unrealm](https://github.com/arturdev/Unrealm) - Unrealm is an extension on RealmCocoa, which enables Swift native types to be saved in Realm. Language: Swift.
 
+## Device
+[scroll to top](#readme) 
+- [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift. Language: Swift.
+
 ## JSON 
 [scroll to top](#readme) 
 - [Codable](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types) - Out of box 📦  solution from Apple for Encode/Decode JSON. Language: Swift.
@@ -39,10 +43,6 @@
 - [SBJson](https://github.com/SBJson/SBJson) - This framework implements a strict JSON parser and generator in Objective-C. Language: Objective-C. 
 - [Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch. Language: Objective-C.
 - [JSONModel](https://github.com/jsonmodel/jsonmodel) - Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. Objective-C.
-
-## Device
-[scroll to top](#readme) 
-- [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift. Language: Swift.
 
 ## Network
 [scroll to top](#readme)
