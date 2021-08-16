@@ -6,6 +6,7 @@
 - [Dependency Manager](#Dependency-Manager)
 - [Device](#Device)
 - [Network](#Network)
+- [Reactive Programming](#Reactive-Programming)
 - [Socket](#Socket)
 - [UI](#UI)
 
@@ -15,7 +16,7 @@
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager. CocoaPods manages dependencies for your Xcode projects. (de facto standard/most used Dependency Manager) Language: Ruby.
 - [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa. Language: Swift.
 
-# Device
+## Device
 [scroll to top](#readme) 
 - [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift. Language: Swift.
 
@@ -26,7 +27,13 @@
 - [Reachability](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures. Language: Swift. 
 - [Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift. Language: Swift.
 
-# Socket
+## Reactive Programming
+[scroll to top](#readme)
+- [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift. Language: Swift.
+- [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. Language: Swift.
+- [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift) - Streams of values over time by ReactiveCocoa group. Language: Swift.
+
+## Socket
 [scroll to top](#readme)
 - [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client written on Swift. Language: Swift.
 - [SocketRocket](https://github.com/facebookincubator/SocketRocket) - A conforming Objective-C WebSocket client library. Language: Objective-C. 
