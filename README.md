@@ -1,6 +1,6 @@
 # Awesome macOS libraries :fire: :fire: :fire:
 
-All listed libraries support macOS 
+> All listed libraries support macOS 
 
 ### Content
 - [Network](#Network)
