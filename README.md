@@ -11,7 +11,6 @@
 - [Network](#Network)
 - [Reactive Programming](#Reactive-Programming)
 - [Socket](#Socket)
-- [UI](#UI)
 
 ## Dependency Manager
 [scroll to top](#readme) 
@@ -44,6 +43,10 @@
 - [SBJson](https://github.com/SBJson/SBJson) - This framework implements a strict JSON parser and generator in Objective-C. Language: Objective-C. 
 - [Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch. Language: Objective-C.
 - [JSONModel](https://github.com/jsonmodel/jsonmodel) - Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. Language: Objective-C.
+- [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift. Language: Swift.
+- [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper. Language: Swift.
+- [MJExtension](https://github.com/CoderMJLee/MJExtension) - A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file. Language: Objective-C.
+- [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) - Simple JSON Object mapping written in Swift. Language: Swift.
 
 ## Logging
 [scroll to top](#readme) 
@@ -68,6 +71,3 @@
 [scroll to top](#readme)
 - [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client written on Swift. Language: Swift.
 - [SocketRocket](https://github.com/facebookincubator/SocketRocket) - A conforming Objective-C WebSocket client library. Language: Objective-C. 
-
-## UI
-[scroll to top](#readme)
