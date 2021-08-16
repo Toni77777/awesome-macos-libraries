@@ -66,6 +66,8 @@
 - [Just](https://github.com/dduan/Just) - Swift HTTP for Humans. Language: Swift.
 - [siesta](https://github.com/bustoutsolutions/siesta) - The civilized way to write REST API clients. Language: Swift.
 - [RestKit](https://github.com/RestKit/RestKit) - RestKit is a framework for consuming and modeling RESTful web resources. Language: Objective-C.
+- [Swift Protobuf](https://github.com/apple/swift-protobuf) - Plugin and runtime library for using protobuf with Swift. Language: Swift.
+- [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - Google ProtocolBuffers for Apple Swift. Language: Swift.
 
 ## Reactive Programming
 [scroll to top](#readme)
