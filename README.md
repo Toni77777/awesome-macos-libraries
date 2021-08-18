@@ -81,6 +81,7 @@
 ## In App Purchases and Subscription
 [scroll to top](#readme) 
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework. Language: Swift.
+- [purchases-ios](https://github.com/RevenueCat/purchases-ios) - In-app purchases and subscriptions made easy.
 
 ## JSON 
 [scroll to top](#readme) 
