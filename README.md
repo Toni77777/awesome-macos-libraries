@@ -21,6 +21,7 @@
 - [Markdown](#Markdown)
 - [Network](#Network)
 - [Reactive Programming](#Reactive-Programming)
+- [Shortcut](#Shortcut)
 - [Socket](#Socket)
 
 ## Dependency Manager
@@ -153,6 +154,10 @@
 - [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift. Language: Swift.
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. Language: Swift.
 - [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift) - Streams of values over time by ReactiveCocoa group. Language: Swift.
+
+## Shortcut
+[scroll to top](#readme)
+- [MASShortcut](https://github.com/shpakovski/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store
 
 ## Socket
 [scroll to top](#readme)
