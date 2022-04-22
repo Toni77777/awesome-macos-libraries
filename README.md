@@ -22,6 +22,7 @@
 - [Network](#Network)
 - [Reactive Programming](#Reactive-Programming)
 - [Shortcut](#Shortcut)
+- [Slider](#Slider)
 - [Socket](#Socket)
 
 ## Dependency Manager
@@ -158,6 +159,10 @@
 ## Shortcut
 [scroll to top](#readme)
 - [MASShortcut](https://github.com/shpakovski/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store
+
+## Slider
+[scroll to top](#readme)
+- [MABSlider](https://github.com/muhammadbassio/MABSlider) - Custom Slider for OSX using swift
 
 ## Socket
 [scroll to top](#readme)
