@@ -24,6 +24,7 @@
 - [Shortcut](#Shortcut)
 - [Slider](#Slider)
 - [Socket](#Socket)
+- [TextView](#TextView)
 
 ## Dependency Manager
 [scroll to top](#readme) 
@@ -169,3 +170,7 @@
 - [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client written on Swift. Language: Swift.
 - [SocketRocket](https://github.com/facebookincubator/SocketRocket) - A conforming Objective-C WebSocket client library. Language: Objective-C. 
 - [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous socket networking library. Language: Objective-C. 
+
+## TextView
+[scroll to top](#readme)
+- [STTextView](https://github.com/krzyzanowskim/STTextView) - TextKit2 text view without NSTextView baggage. Language: Swift.
