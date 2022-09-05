@@ -25,6 +25,7 @@
 - [Slider](#Slider)
 - [Socket](#Socket)
 - [TextView](#TextView)
+- [Toast and Popup](#Toast-and-Popup)
 
 ## Dependency Manager
 [scroll to top](#readme) 
@@ -174,3 +175,7 @@
 ## TextView
 [scroll to top](#readme)
 - [STTextView](https://github.com/krzyzanowskim/STTextView) - TextKit2 text view without NSTextView baggage. Language: Swift.
+
+## Toast-and-Popup
+[scroll to top](#readme)
+- [BezelNotification](https://github.com/Yalir/BezelNotification) - A Swift package for displaying bezel notifications in macOS. Language: Swift.
