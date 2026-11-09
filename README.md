@@ -34,6 +34,7 @@
 - [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa. Language: Swift.
 
 ## Animation
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native Swift Now Playing companion beside the Dock on macOS.
 [scroll to top](#readme)
 - [Advance](https://github.com/timdonnelly/Advance) - Physics-based animations. Language: Swift.
 
